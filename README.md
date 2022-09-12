@@ -1,4 +1,4 @@
 # test
 Week 1 Assignment git
 first repository creation
-first commit to repository 
+commit to repository 
